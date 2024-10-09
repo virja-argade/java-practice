@@ -1,0 +1,24 @@
+package objectandclassexamples;
+
+public class exmp5 {
+	public static void main(String[] args) {
+	exmp5 ex = new exmp5();
+	ex.twonoadd();
+	
+	
+	
+}
+public void twonoadd () {
+	int a = 29;
+	int b = 34;
+	int c = a + b ;
+	
+	
+	
+}
+	
+	
+	
+	
+	
+}

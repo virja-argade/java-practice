@@ -1,0 +1,42 @@
+package iterativestatement;
+
+public class fordemo {
+
+
+		public static void main(String[] args) {
+			
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			System.out.println("Welcome to BikkadIT");
+			
+		}
+	}
+
+
+

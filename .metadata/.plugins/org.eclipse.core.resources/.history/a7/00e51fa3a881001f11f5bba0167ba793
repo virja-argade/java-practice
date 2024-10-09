@@ -1,0 +1,16 @@
+package possiblecombinationofmethods;
+
+public class demo {
+    
+	public void twonoadd() {
+	int a = 10;
+	int b = 20;
+	int c = a+b;
+	System.out.println("c");
+	}
+  public static viod main(String[]args) {
+	  Demo d = new Demo();
+	  d.twonoadd
+  }
+
+}

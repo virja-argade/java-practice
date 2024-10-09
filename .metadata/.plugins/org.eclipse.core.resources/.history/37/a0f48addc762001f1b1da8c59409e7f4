@@ -1,0 +1,9 @@
+
+package tokens;
+
+public class ruleno1 {
+ public static void main(String[] args) {
+	int rT4_$=80;
+	System.out.println("rT4_$");
+}
+}

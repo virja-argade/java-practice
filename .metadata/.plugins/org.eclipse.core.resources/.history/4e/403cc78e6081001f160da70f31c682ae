@@ -1,0 +1,44 @@
+package typesofopperators;
+
+public class RelationalOpperators {
+    public static void main(String[]args) {
+    	
+    	
+    	int a = 30;
+    	int b = 20;
+    	System.out.println("b>a");
+    	
+    	
+    int a1 = 34;
+    int b1 20;
+    System.out.println("b<a");
+    	
+    	
+    	
+    	
+    	
+    	
+    }
+	
+}
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

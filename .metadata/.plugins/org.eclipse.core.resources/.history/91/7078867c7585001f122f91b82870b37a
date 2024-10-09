@@ -1,0 +1,19 @@
+package objectandclassexamples;
+
+public class exampleno1 {
+	 
+	public static void main(String[]args) {
+    System.out.println("exampleno1");
+    Employe emp1  = new Employe();
+    System.out.println(emp1 .name);
+    
+    
+    
+}
+}  
+   class Employe{
+   String name = "virija inamdar";
+   String getname() {
+   return this.name; 
+   }
+}
